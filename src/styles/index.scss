@@ -1,0 +1,15 @@
+// Custom.scss
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136,
+  "success":#f50057,
+  "warning":#ffab00,
+);
+// Option A: Include all of Bootstrap
+
+@import "~bootstrap/scss/bootstrap";
+
+
+body {
+  padding-top: 5rem //; 1rem = 16px
+ }

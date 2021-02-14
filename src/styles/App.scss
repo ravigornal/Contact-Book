@@ -1,0 +1,28 @@
+.actions {
+  opacity: 0;
+}
+
+tr:hover .actions {
+  opacity: 1;
+}
+
+tbody td a {
+  color: #222;
+
+  &:hover{              // tbody td a:hover {
+    color: #222;     //   color: #222;
+                        // }
+  }
+}
+
+.cursor-pointer{
+  pointer:cursor;
+}
+
+.bold {
+  color: red
+}
+
+.navbar-brand {
+  font-size:30px
+}
