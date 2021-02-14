@@ -10,7 +10,7 @@ const Navbar = () => {
 
              </Link>
                 <div>
-                <Link to ="/contacts/add" className="btn btn-light ml-auto">Create Contact<i className="fas fa-plus ml-2"></i></Link>
+                <Link to ="/contacts/add" className="btn btn-light ml-auto">Create Contact</Link>
                 </div>
             </div>
 
